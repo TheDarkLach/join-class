@@ -8,7 +8,7 @@ P2 = " "
 P3 = " "
 P4 = " "
 
-#Time each period starts, examples "8:30", "21:30"
+#Time each period starts, examples "08:30", "21:30"
 T1 = " "
 T2 = " "
 T3 = " "
